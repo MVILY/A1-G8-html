@@ -1,0 +1,82 @@
+body {
+    background-color: black;
+   }
+   
+   p{
+       color: aliceblue;
+       font-size: 36px;
+       text-align: center;
+   }
+   
+   .title {
+       font-size: 80px ;
+       font-style: italic;
+       font-family: 'Times New Roman', Times, serif;
+       color: rgb(127, 181, 181);
+   }
+   
+   .red {
+    min-width: 5%;
+    color: aliceblue;
+       
+   }
+   img {
+
+    width: 50%;
+       height: 80%;
+  margin-left: 100px
+   }
+       
+   .title {
+    color: aliceblue;
+   }
+    
+   .title2 {
+    margin-left: auto;
+   }
+  
+   .container {
+       background-color: cornflowerblue;
+       margin-top: 60px;
+       padding: 30px;
+       display: flex;
+       gap: 30px;
+       justify-content: center;
+       align-items:center;
+       flex-wrap: wrap;
+   }
+   
+   .Adresses {
+   
+       width: 20%;
+       height: 70px;
+       border: solid 2px ;
+   }
+   
+   .Contact {
+   
+       width: 20%;
+       height: 70px;
+       border: solid 2px 
+
+   }
+   
+   
+   .container2 {
+   
+       display: flex;
+       align-items: center;
+   }
+   
+   .container2 img {
+   
+       width: 40%;
+   }
+   .container2 div {
+   
+       width: 40%;
+   }
+   .footer {
+    background-color: aqua;
+
+   }
